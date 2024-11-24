@@ -16,4 +16,29 @@ Purpose
 All of the movies and TV series available on Amazon Prime Video are represented by this interface. This dashboard can be interacted with.
 You may view information about a certain film or television program, including its cast, genre, running time, and year of release, by selecting it from the dropdown menu. The count and top ratings are displayed on the radial chart. A different graph in it illustrates the rise in television and film output throughout time. There is a map included as well that displays the quantity of films and television series made in other nations. The top 10 genres over time are displayed together with their count in a bar chart. The distribution of TV series and movies as seen by a doughnut chart.
 
+Amazon Prime Video Dashboard
+ivgZFR3mfa4PS47bguxSJm
+
+Project Overview
+This project involves creating an interactive Tableau dashboard to analyze Amazon Prime Video content up to mid-2021. The dataset includes approximately 10,000 movies and TV shows and is sourced from Kaggle.
+
+Dataset
+The dataset used for this project is available on Kaggle: Amazon Prime Movies and TV Shows.
+
+Tools and Technologies
+Tableau
+Additional Files
+Radial Bar Chart Values: A text file containing values for path size and degrees.
+Prime Video Logo: A PNG image used in the dashboard.
+Tableau Dashboard
+The final visualization is created using Tableau and includes multiple interactive charts and text sheets to provide a comprehensive analysis of Amazon Prime Video content.
+
+Amazon Prime Video Dashboard
+Findings
+Radial Bar Chart: Visualizes ratings using X and Y coordinates calculated from cosine and sine functions.
+Donut Chart: Displays categorical data with dual-axis formatting.
+Area Chart: Shows the count of shows by year and type.
+Horizontal Bar Chart: Highlights the top 10 genres.
+Map: Visualizes the total number of shows by country.
+Text Sheets: Provide details on attributes like description, cast, release year, duration, genre, and type.
 
